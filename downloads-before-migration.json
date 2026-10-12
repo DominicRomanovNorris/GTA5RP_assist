@@ -1,0 +1,215 @@
+[
+  {
+    "version": "v0.8.1",
+    "files": [
+      {
+        "name": "eclipse-index.json",
+        "downloads": 0
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "downloads": 0
+      },
+      {
+        "name": "StateHelper-Portable-win-x64.zip",
+        "downloads": 0
+      },
+      {
+        "name": "StateHelper-Setup.exe",
+        "downloads": 2
+      },
+      {
+        "name": "update.json",
+        "downloads": 3
+      }
+    ]
+  },
+  {
+    "version": "v0.8.0",
+    "files": [
+      {
+        "name": "eclipse-index.json",
+        "downloads": 0
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "downloads": 0
+      },
+      {
+        "name": "StateHelper-Portable-win-x64.zip",
+        "downloads": 0
+      },
+      {
+        "name": "StateHelper-Setup.exe",
+        "downloads": 1
+      },
+      {
+        "name": "update.json",
+        "downloads": 1
+      }
+    ]
+  },
+  {
+    "version": "v0.7.0",
+    "files": [
+      {
+        "name": "eclipse-index.json",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Eclipse-v0.7.0-win-x64.zip",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Setup-0.7.0-win-x64.exe",
+        "downloads": 1
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "downloads": 0
+      },
+      {
+        "name": "update.json",
+        "downloads": 1
+      }
+    ]
+  },
+  {
+    "version": "v0.6.0",
+    "files": [
+      {
+        "name": "eclipse-index.json",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Eclipse-v0.6.0-win-x64.zip",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Setup-0.6.0-win-x64.exe",
+        "downloads": 1
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "downloads": 0
+      },
+      {
+        "name": "update.json",
+        "downloads": 1
+      }
+    ]
+  },
+  {
+    "version": "v0.5.1",
+    "files": [
+      {
+        "name": "eclipse-index.json",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Eclipse-v0.5.1-win-x64.zip",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Setup-0.5.1-win-x64.exe",
+        "downloads": 0
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "downloads": 0
+      },
+      {
+        "name": "update.json",
+        "downloads": 9
+      }
+    ]
+  },
+  {
+    "version": "v0.5.0",
+    "files": [
+      {
+        "name": "eclipse-index.json",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Eclipse-v0.5.0-win-x64.zip",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Setup-0.5.0-win-x64.exe",
+        "downloads": 1
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "downloads": 0
+      },
+      {
+        "name": "update.json",
+        "downloads": 1
+      }
+    ]
+  },
+  {
+    "version": "v0.4.0",
+    "files": [
+      {
+        "name": "eclipse-index.json",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Eclipse-v0.4.0-win-x64.zip",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Setup-0.4.0-win-x64.exe",
+        "downloads": 1
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "downloads": 0
+      },
+      {
+        "name": "update.json",
+        "downloads": 1
+      }
+    ]
+  },
+  {
+    "version": "v0.3.0",
+    "files": [
+      {
+        "name": "eclipse-index.json",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Eclipse-v0.3.0-win-x64.zip",
+        "downloads": 0
+      },
+      {
+        "name": "EclipseGuide-Setup-0.3.0-win-x64.exe",
+        "downloads": 1
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "downloads": 0
+      },
+      {
+        "name": "update.json",
+        "downloads": 1
+      }
+    ]
+  },
+  {
+    "version": "database",
+    "files": [
+      {
+        "name": "data-update.json",
+        "downloads": 2
+      },
+      {
+        "name": "eclipse-index.json",
+        "downloads": 1
+      }
+    ]
+  }
+]
